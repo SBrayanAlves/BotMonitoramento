@@ -1,7 +1,3 @@
-Perfeito 👌 Aqui vai uma versão aprimorada e mais organizada do seu README, com formatação clara, linguagem profissional e melhor legibilidade:
-
----
-
 # 🤖 Bot de Monitoramento de Produtos
 
 ## 💡 Ideia do Projeto
